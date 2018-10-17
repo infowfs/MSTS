@@ -1,2 +1,2 @@
 # MSTS
-MSTS documentatio
+MSTS documentation
