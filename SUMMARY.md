@@ -38,6 +38,7 @@
 * [Featured cards](paragraphs/featured-cards.md)
 * [Five places accordion](paragraphs/five-places-accordion.md)
 * [Flipcard](paragraphs/flipcard.md)
+* [Hero Banner](paragraphs/hero-banner.md)
 * [Home page link](paragraphs/home-page-link.md)
 * [Icons links](paragraphs/icons-links.md)
 * [Iframe](paragraphs/iframe.md)
