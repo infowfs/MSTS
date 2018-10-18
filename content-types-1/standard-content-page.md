@@ -1,0 +1,2 @@
+# Standard content page
+
