@@ -6,10 +6,6 @@ For each one, you'll find a walkthrough that will help you, as an editor, to cre
 
 ## Hero banner
 
-Although this is not a paragraph, you'll see this option in many pages. [**Hero banner**](paragraphs/hero-banner.md) is the first visual element a visitor encounters when opens the site.
-
-It's a component which is already presented as an option in multiple paragraphs or content types, so you can choose whether use it or not while creating the page. 
-
 ![](.gitbook/assets/hero_banner.png)
 
 ## Auto Scroller

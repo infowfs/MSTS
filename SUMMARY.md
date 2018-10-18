@@ -72,6 +72,10 @@
 * [Vertical tabs](paragraphs/vertical-tabs.md)
 * [Video gallery](paragraphs/video-gallery.md)
 * [White papers](paragraphs/white-papers.md)
+* [Hero image](paragraphs/hero-image.md)
+* [Hero message](paragraphs/hero-message.md)
+* [Hero quote](paragraphs/hero-quote.md)
+* [Image split](paragraphs/image-split.md)
 
 ## Content types
 
