@@ -6,9 +6,11 @@ For each one, you'll find a walkthrough that will help you, as an editor, to cre
 
 ## Hero banner
 
+It's not a properly a paragraph but a functionality that most content types and paragraphs can have. [Click here](paragraphs/hero-banner.md) to see the full explanation. 
+
 ![](.gitbook/assets/hero_banner.png)
 
-## Auto Scroller
+
 
 ## Bio listing
 
@@ -57,6 +59,8 @@ For each one, you'll find a walkthrough that will help you, as an editor, to cre
 ## Five places accordion
 
 ## Flipcard
+
+![](.gitbook/assets/flipcard_not_active.png)
 
 ## Home page link
 

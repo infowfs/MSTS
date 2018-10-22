@@ -12,7 +12,6 @@
 
 ## Paragraphs
 
-* [Auto Scroller](paragraphs/auto-scroller.md)
 * [Bio listing](paragraphs/bio-listing.md)
 * [Breadcrumb and social share](paragraphs/breadcrumb-and-social-share.md)
 * [Call to action](paragraphs/call-to-action.md)
