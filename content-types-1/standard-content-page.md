@@ -8,7 +8,17 @@ The Standard content page comes with some pre charged features such as: _top lin
 
 This is an example of a common Standard content page and how it has been built:
 
+![](../.gitbook/assets/scp_hompage-01.png)
+
+The red blocks are the **paragraphs** added to this page. These **paragraphs** can be formed by **components** or **items**. As an example, **Flipcard** is a paragraph composed by **4** **Flipcard** **Items \(content type\)** that are nested inside this paragraph. This means that you have to create first the content type named Flipcard and then create the Flipcard paragraph to view the items you've created. 
+
+## How to create a Standard content type <a id="how-to-create-a-profile-content-type"></a>
+
+To create a Generic detail select **Content** =&gt; **Add Content** =&gt; select **Standard content page** from the list.
+
+![](../.gitbook/assets/content_type-available.png)
+
+Once you have a **Standard content page** created, you can start adding paragraphs as we've seen in the previous example. 
 
 
-\(Add SCP with footer + content+ paragraphs\)
 
