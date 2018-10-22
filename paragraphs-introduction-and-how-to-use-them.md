@@ -10,11 +10,11 @@ This document is a step-by-step guide that meant to help and guide editors throu
 
 ### How to use paragraphs <a id="how-to-use-paragraphs"></a>
 
-Imagine the actual website as an structure filled with different types of paragraphs. As an editor, you can choose which paragraphs fits better for the type of content you're willing to display.
+Imagine the actual website as a structure filled with different types of paragraphs. As an editor, you can choose which paragraphs fits better for the type of content you're willing to display.
 
-Here's an example of how editors used paragraphs to create a basic homepage with the structure of Kinect site:
+Here's an example of how editors used paragraphs and content types to create a basic homepage with the structure of MSTS site:
 
-**ADD HOMEPAGE IMAGE WITH PARAGRAPHS AND CONTENT TYPES HIGHLIGHTED HERE**
+![](.gitbook/assets/scp_hompage-01.png)
 
 The red blocks are the **paragraphs** added to this page. These **paragraphs** are commonly integrated by **components** or **items**. As an example, **Featured blocks** is a paragraph composed by 4 **Featured block** **Items** that are nested inside this paragraph.
 
