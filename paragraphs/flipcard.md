@@ -1,6 +1,6 @@
 # Flipcard
 
-## Description {#description}
+## Description <a id="description"></a>
 
 The **Flipcard** paragraph allows Editors to create an element for displaying different products or services that are offered . Each card have two sides that can be customizable by the editor. _These cards can be turned over when users hover over the element, displaying the information on the back._
 
@@ -17,7 +17,7 @@ As shown here:
 
 ![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LLjdGUcRYPC3PTW00sg%2F-LLzqeDSZlBSn6F6xaMi%2F-LLzuXVy3qAbBle1xwB1%2FFlipcard_active.png?alt=media&token=6daf9ad1-e930-4c60-a0fa-b4a8be97b7e3)
 
-## Content Types {#content-types}
+## Content Types <a id="content-types"></a>
 
 This paragraph can be used within the following content types:
 
@@ -25,7 +25,7 @@ This paragraph can be used within the following content types:
 
 Currently you can see this paragraph used within MSTS site homepage here: https://www.msts.com
 
-## Step-by-step guide {#step-by-step-guide}
+## Step-by-step guide <a id="step-by-step-guide"></a>
 
 To create a Flipcard Paragraph, select Content =&gt; Add Content =&gt; Standard Content Page \(or any other content type that includes this paragraph \).
 

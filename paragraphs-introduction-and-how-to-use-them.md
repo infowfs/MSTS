@@ -8,7 +8,7 @@ Each paragraph created for MSTS site supports one or several particular features
 
 This document is a step-by-step guide that meant to help and guide editors throughout the process of creating a new page, adding paragraphs and so on.
 
-### How to use paragraphs {#how-to-use-paragraphs}
+### How to use paragraphs <a id="how-to-use-paragraphs"></a>
 
 Imagine the actual website as an structure filled with different types of paragraphs. As an editor, you can choose which paragraphs fits better for the type of content you're willing to display.
 
