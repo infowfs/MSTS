@@ -84,10 +84,7 @@
 * [Earned media](content-types-1/earned-media.md)
 * [Events](content-types-1/events.md)
 * [Flipcard item](content-types-1/flipcard-item.md)
-* [Location pins](content-types-1/location-pins.md)
 * [Map location](content-types-1/map-location.md)
 * [Media](content-types-1/media.md)
 * [News](content-types-1/news.md)
-* [Node export import](content-types-1/node-export-import.md)
-* [Parallax content](content-types-1/parallax-content.md)
 

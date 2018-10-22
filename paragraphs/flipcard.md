@@ -37,7 +37,7 @@ You will be headed to Standard Content Page form. The first thing you will need 
 
 Flipcard paragraph form should look like this:
 
-![](../.gitbook/assets/flipcard_form_view%20%282%29.png)
+![](../.gitbook/assets/flipcard_form_view.png)
 
 1. **Title**: is the title that will be on top of the flipcards and visible for users. 
 2. **Flipcard item:** start typing the name of a Flipcard item to select one. Remember that we create the Flipcards items in the content types menu. [Click here ](../content-types-1/flipcard-item.md)to know how to create a Flipcard item.

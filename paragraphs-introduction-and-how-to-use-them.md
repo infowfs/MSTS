@@ -2,7 +2,7 @@
 
 MSTS site uses Drupal **Paragraphs** feature as one of the main way to create, edit and present content throughout the site. It gives more editing power to editors: instead of putting all their content in one WYSIWYG body field including images and videos, end-users can now choose on-the-fly between pre-defined Paragraph Types independent from one another.
 
-Paragraphs are included into some content types that have the paragraph field included \(Homepage / Standard Content Page, etc\) and allows Editors to create unique and versatile pages very easily. A Content Type that supports paragraphs \(let's say "Standard Content Page, that is currently the main CT used with paragraphs on msts.com domain\) allows users to add pretty as many paragraphs as they need into a page, putting one or several paragraph types together.
+Paragraphs are included into some content types that have the paragraph field included \(Homepage / Standard Content Page, etc\) and allows Editors to create unique and versatile pages very easily. A good example of a Content Type that supports paragraphs is Standard Content Page, which is by the way, the main Content type used to create the pages found on msts.com domain.  Users are allowed to add as many paragraphs as they need into a page, putting one or several paragraph types together.
 
 Each paragraph created for MSTS site supports one or several particular features, that is both visual and functional, such as: carousel, images slider, timeline, statistics content, quotes, etc.
 
