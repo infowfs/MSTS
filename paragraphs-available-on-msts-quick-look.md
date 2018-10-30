@@ -56,27 +56,29 @@ It's not a properly a paragraph but a functionality that most content types and 
 
 ## MSTS timeline
 
+![](.gitbook/assets/msts_timeline.png)
+
 ## Multiple columns
 
 ![](.gitbook/assets/embedded_views-content_featured_news.png)
 
 ## Scrollable images
 
+![](.gitbook/assets/scrollable_image.png)
+
 ## Statistics
 
 ![](.gitbook/assets/statistics_simple.png)
 
-![](.gitbook/assets/iframe_demo%20%281%29.png)
-
 ## Tabs
+
+![](.gitbook/assets/tabs.png)
 
 ## Two column content
 
 
 
 ![](.gitbook/assets/info_blocks_demo_1.png)
-
-![](.gitbook/assets/logo_grid%20%281%29.png)
 
 
 
