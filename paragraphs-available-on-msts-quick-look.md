@@ -14,123 +14,65 @@ It's not a properly a paragraph but a functionality that most content types and 
 
 ## Bio listing
 
-## Breadcrumb and social share
-
-## Call to action
-
-## Card component
-
-## Carousel
-
-## Category list
-
-## Chart
+![](.gitbook/assets/bio_listing%20%281%29.png)
 
 ## Columns
 
-## Columns P&S
-
-## Contacts
+![](.gitbook/assets/column_content%20%281%29.png)
 
 ## Content
 
-## Content tabs
+![](.gitbook/assets/content%20%281%29.png)
 
 ## Content quote
 
 ![](.gitbook/assets/quotation.png)
 
-## Customer navigation
-
-## Customer Success story
-
 ## Embedded components
 
-## Embedded contact us map
+![](.gitbook/assets/column_content.png)
 
-## Embedded content
+## Embedded views content
 
-## Embedded form
-
-## Embedded newsfeed content
-
-## FAQ list
-
-## Featured cards
-
-## Five places accordion
+![](.gitbook/assets/content.png)
 
 ## Flipcard
 
 ![](.gitbook/assets/flipcard_not_active.png)
 
-## Home page link
-
-## Icons links
-
 ## Iframe
 
 ## Info blocks
 
-## Info box
-
-## Key features
-
-## Links to content
-
-## Logo carousel
+![](.gitbook/assets/embedded_components_categories_three_column_layout.png)
 
 ## Logo grid
 
 ## Map location
 
-## Media content
-
-## Media directory
-
 ## MSTS timeline
 
 ## Multiple columns
 
-## Press release latest
-
-## Quotation
+![](.gitbook/assets/embedded_views-content_featured_news.png)
 
 ## Scrollable images
-
-## Slideshow
-
-## Social links
-
-## Solutions
 
 ## Statistics
 
 ![](.gitbook/assets/statistics_simple.png)
 
+![](.gitbook/assets/iframe_demo.png)
+
 ## Tabs
-
-## Testimonial content
-
-## Timeline
-
-## Timeline slideshow
-
-## Twitter timeline
-
-## Two cards unified rewards
 
 ## Two column content
 
-## Two news events and terms
 
-## Up to 4 elements in columns
 
-## Vertical tabs
+![](.gitbook/assets/info_blocks_demo_1.png)
 
-## Video gallery
-
-## White papers
+![](.gitbook/assets/logo_grid.png)
 
 
 

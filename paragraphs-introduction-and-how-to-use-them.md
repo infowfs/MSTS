@@ -16,7 +16,7 @@ Here's an example of how editors used paragraphs and content types to create a b
 
 ![](.gitbook/assets/scp_hompage-01.png)
 
-The red blocks are the **paragraphs** added to this page. These **paragraphs** can be formed by **components** or **items**. As an example, **Flipcard** is a paragraph composed by 4 **Flipcard** **Items \(content type\)** that are nested inside this paragraph. This means that you have to create first the content type named Flipcard and then create the Flipcard paragraph to view the items you've created. 
+The red blocks are the **paragraphs** added to this page. These **paragraphs** can be formed by **components** or **items**. As an example, **Flipcard** is a paragraph composed by 4 **Flipcard** **Items \(content type\)** that are nested inside this paragraph. This means that you have to create first the **content type named Flipcard** and then create the **Flipcard paragraph** to view the items you've created. 
 
 
 

@@ -38,6 +38,6 @@
 * [Earned media](content-types-1/earned-media.md)
 * [Events](content-types-1/events.md)
 * [Flipcard item](content-types-1/flipcard-item.md)
-* [Map location](content-types-1/map-location.md)
+* [Map location content](content-types-1/map-location.md)
 * [News](content-types-1/news.md)
 
