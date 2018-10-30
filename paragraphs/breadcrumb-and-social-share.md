@@ -1,2 +1,0 @@
-# Breadcrumb and social share
-
