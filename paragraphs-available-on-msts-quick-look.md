@@ -42,11 +42,15 @@ It's not a properly a paragraph but a functionality that most content types and 
 
 ## Iframe
 
+![](.gitbook/assets/iframe_demo.png)
+
 ## Info blocks
 
 ![](.gitbook/assets/embedded_components_categories_three_column_layout.png)
 
 ## Logo grid
+
+![](.gitbook/assets/logo_grid.png)
 
 ## Map location
 
@@ -62,7 +66,7 @@ It's not a properly a paragraph but a functionality that most content types and 
 
 ![](.gitbook/assets/statistics_simple.png)
 
-![](.gitbook/assets/iframe_demo.png)
+![](.gitbook/assets/iframe_demo%20%281%29.png)
 
 ## Tabs
 
@@ -72,7 +76,7 @@ It's not a properly a paragraph but a functionality that most content types and 
 
 ![](.gitbook/assets/info_blocks_demo_1.png)
 
-![](.gitbook/assets/logo_grid.png)
+![](.gitbook/assets/logo_grid%20%281%29.png)
 
 
 
