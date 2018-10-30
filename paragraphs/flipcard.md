@@ -46,5 +46,5 @@ Flipcard paragraph form should look like this:
 5. **Paragraph type**: you can select another paragraph from the dropdown menu that will be displayed below the Flipcards paragraph. 
 6. **Add another paragraph**: click here to add the paragraph you have previously chosen. 
 
-
+Then press save to preview, publish or review. 
 

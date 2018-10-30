@@ -38,6 +38,8 @@ It's not a properly a paragraph but a functionality that most content types and 
 
 ## Content quote
 
+![](.gitbook/assets/quotation.png)
+
 ## Customer navigation
 
 ## Customer Success story
@@ -103,6 +105,8 @@ It's not a properly a paragraph but a functionality that most content types and 
 ## Solutions
 
 ## Statistics
+
+![](.gitbook/assets/statistics_simple.png)
 
 ## Tabs
 
