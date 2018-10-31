@@ -10,13 +10,9 @@ It's a component which is already presented as an option in multiple paragraphs 
 
 ## Content Types <a id="content-types"></a>
 
-This paragraph can be used within the following content types:  \(_validate this info_\)
+This paragraph can be used within the following content types: 
 
 * Standard content page 
-* Media
-* News
-* Map location 
-* Corporate bio 
 
 ## Step-by-step guide <a id="step-by-step-guide"></a>
 

@@ -23,7 +23,3 @@ The red blocks are the **paragraphs** added to this page.
 1. was written at the moment the paragraph was created \(e.g.: **Quotation or Hero**\)
 2. was created from Content types \(e.g.: **Flipcard** is a paragraph composed by **4 Flipcard** **Items \(content type\)** that are nested inside this paragraph. This means that you have to create first the **content type named Flipcard** and then create the **Flipcard paragraph** to view the items you've created. 
 
-
-
-
-
