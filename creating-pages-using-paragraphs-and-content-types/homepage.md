@@ -2,7 +2,7 @@
 
 We'll go through the Homepage and identify paragraph we have used to create the structure that users can see when they access [www.msts.com](https://www.msts.com/en)
 
-![](../.gitbook/assets/scp_hompage-01.png)
+![](../.gitbook/assets/scp_hompage%20%281%29.png)
 
 _**First thing:** remember that **Standard content page** is the content type we use when creating a page. This content type allows Editors to **add paragraphs** that will create the page indeed._ 
 

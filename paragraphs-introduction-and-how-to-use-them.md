@@ -14,7 +14,7 @@ Imagine the actual website as a structure filled with different types of paragra
 
 Here's an example of how editors used paragraphs and content types to create a basic homepage with the structure of MSTS site:
 
-![](.gitbook/assets/scp_hompage-01.png)
+![](.gitbook/assets/scp_hompage%20%281%29.png)
 
 The red blocks are the **paragraphs** added to this page. 
 
@@ -22,4 +22,6 @@ The red blocks are the **paragraphs** added to this page.
 
 1. was written at the moment the paragraph was created \(e.g.: **Quotation or Hero**\)
 2. was created from Content types \(e.g.: **Flipcard** is a paragraph composed by **4 Flipcard** **Items \(content type\)** that are nested inside this paragraph. This means that you have to create first the **content type named Flipcard** and then create the **Flipcard paragraph** to view the items you've created. 
+
+
 
