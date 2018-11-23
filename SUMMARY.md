@@ -9,6 +9,9 @@
 
 * [General information](creating-pages-using-paragraphs-and-content-types/general-information.md)
 * [Homepage](creating-pages-using-paragraphs-and-content-types/homepage.md)
+* [Our Solutions](creating-pages-using-paragraphs-and-content-types/our-solutions.md)
+* [About Us](creating-pages-using-paragraphs-and-content-types/about-us.md)
+* [Media](creating-pages-using-paragraphs-and-content-types/media.md)
 
 ## Paragraphs
 

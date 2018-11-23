@@ -1,6 +1,6 @@
 # Homepage
 
-We'll go through the Homepage and identify paragraph we have used to create the structure that users can see when they access [www.msts.com](https://www.msts.com/en)
+We'll go through the Homepage and identify the paragraphs we have used to create the structure that an users will see on [www.msts.com](https://www.msts.com/en)
 
 ![](../.gitbook/assets/scp_hompage%20%281%29.png)
 
@@ -12,12 +12,9 @@ _**First thing:** remember that **Standard content page** is the content type we
 
 **Flipcard**: is a paragraph that allows Editors to showcase the Flipcards items content type. This means that the paragraph is a wrap or a view but the content is actually pieces of Flipcard content type that have been previously created.
 
-Statistics: this paragraph allows editors to create each one of the items that are displayed, including the icon, text and background. 
+**Statistics:** this paragraph allows editors to create each one of the items that are displayed, including the icon, text and background. 
 
-Content quote: 
+**Content quote:** //Content quote definition//
 
-
-
-Ç  
 
 
