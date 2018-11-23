@@ -14,6 +14,10 @@ _**First thing:** remember that **Standard content page** is the content type we
 
 Statistics: this paragraph allows editors to create each one of the items that are displayed, including the icon, text and background. 
 
-Content quote:   
+Content quote: 
+
+
+
+Ç  
 
 
