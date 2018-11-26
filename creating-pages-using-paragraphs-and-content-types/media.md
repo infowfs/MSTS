@@ -6,7 +6,7 @@ We'll go through Media and identify the paragraphs we have used to create this p
 
 ### Paragraph review
 
-**Node title:** allows us to display the title in a page. Title is a mandatory field that can be found on the left side of the form under the name Content\*
+**Node title / Hero banner:** allows us to display the title in a page. Title is a mandatory field that can be found on the left side of the form under the name Content. Scroll down to the Hero Zone, add a name for the title. In this case we have no background image so only the title is displayed. 
 
 **Embedded Views Content**: this paragraph has a views content call News View Content to showcase a preview of the news by using the Featured News taxonomy. 
 
