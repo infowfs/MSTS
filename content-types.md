@@ -28,7 +28,7 @@ It's the most used content type. The Standard Content **allows editors to build 
 
 ## Corporate bio
 
-![](.gitbook/assets/corporate_bio_content_type.png)
+![](.gitbook/assets/corporate_bio_content_type%20%281%29.png)
 
 ## Earned media
 
@@ -48,7 +48,7 @@ It's the information that allows the system to place a location in a map.
 
 ## News
 
-![](.gitbook/assets/news_content_type.png)
+![](.gitbook/assets/news_content_type%20%281%29.png)
 
 ## 
 

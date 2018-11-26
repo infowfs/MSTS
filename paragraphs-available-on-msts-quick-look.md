@@ -22,7 +22,7 @@ It's not a properly a paragraph but a functionality that most content types and 
 
 ## Content
 
-![](.gitbook/assets/content%20%281%29.png)
+![](.gitbook/assets/content%20%282%29.png)
 
 ## Content quote
 
@@ -50,7 +50,7 @@ It's not a properly a paragraph but a functionality that most content types and 
 
 ## Logo grid
 
-![](.gitbook/assets/logo_grid.png)
+![](.gitbook/assets/logo_grid%20%281%29.png)
 
 ## Map location
 

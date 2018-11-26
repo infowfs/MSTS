@@ -16,7 +16,6 @@
 ## Paragraphs
 
 * [Bio listing](paragraphs/bio-listing.md)
-* [Columns](paragraphs/columns.md)
 * [Content](paragraphs/content.md)
 * [Content quote](paragraphs/content-quote.md)
 * [Embedded components](paragraphs/embedded-components.md)
@@ -39,6 +38,7 @@
 * [Standard content page](content-types-1/standard-content-page.md)
 * [Corporate bio](content-types-1/corporate-bio.md)
 * [Earned media](content-types-1/earned-media.md)
+* [Embeddable content](content-types-1/embedded-content.md)
 * [Events](content-types-1/events.md)
 * [Flipcard item](content-types-1/flipcard-item.md)
 * [Map location content](content-types-1/map-location.md)

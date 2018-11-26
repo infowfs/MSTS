@@ -27,7 +27,7 @@ Currently you can see this paragraph used within MSTS site homepage here: https:
 
 ## Step-by-step guide <a id="step-by-step-guide"></a>
 
-To create a Flipcard Paragraph, select Content =&gt; Add Content =&gt; Standard Content Page \(or any other content type that includes this paragraph \).
+To create a **Flipcard Paragraph**, select **Content** =&gt; **Add Content** =&gt; **Standard Content Page** \(or any other content type that includes this paragraph \).
 
 ![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LLjdGUcRYPC3PTW00sg%2F-LLoSooVQ2ckmOg_YKuy%2F-LLoZrF3E1lH_HTs14DL%2FSTP_backend.png?alt=media&token=49c15fa2-abb2-4e3d-b83d-47d07fbfb3c8)
 
